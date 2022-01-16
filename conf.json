@@ -1,0 +1,15 @@
+{
+  "CONFIGURACAO" : {
+    "CHROME" : {
+      "headless" : false,
+      "executablePath" : "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "timeout" : 5000,
+      "devtools" : false,
+      "args" : ["--window-size=1024,768", "--window-position=0,0", "--inspect-brk"]
+    },
+    "VIEW" : {
+      "width" : 1024,
+      "height" : 768
+    }
+  }
+}

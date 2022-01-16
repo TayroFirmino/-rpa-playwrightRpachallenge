@@ -1,0 +1,11 @@
+{
+  "URL" : {
+    "HOME" : "https://www.rpachallenge.com/",
+    "DOWNLOAD_EXCEL" : "https://www.rpachallenge.com/assets/downloadFiles/challenge.xlsx"
+  },
+  "SELECTORS" : {
+    "BOTAO_START" : "//button[text()='Start']",
+    "BOTAO_SUBMIT" : "input[value='Submit']",
+    "MENSAGEM_SUCESSO" : "div[class='message2']"
+  }
+}

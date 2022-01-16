@@ -1,0 +1,24 @@
+{
+  "name": "poc-rpa-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TayroFirmino/-rpa-playwrightRpachallenge.git"
+  },
+  "author": "tayrofirmino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TayroFirmino/-rpa-playwrightRpachallenge/issues"
+  },
+  "homepage": "https://github.com/TayroFirmino/-rpa-playwrightRpachallenge#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "playwright-core": "^1.17.2",
+    "xlsx": "^0.17.5"
+  }
+}
